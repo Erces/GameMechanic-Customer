@@ -1,0 +1,1 @@
+This is a **"workspace"** for understanding **AI character systems** and **interacting with database** when selling an item. This is a base prototype for a "Pawn Shop" game that you can buy/sell stuff.
