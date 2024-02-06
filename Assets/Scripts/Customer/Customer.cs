@@ -19,8 +19,6 @@ public class Customer : MonoBehaviour
     public ItemObject selectedItem;
 
     [SerializeField] private CustomerMovementAI moveAI;
-    private CustomerThinkAI thinkAI;
-
     public Transform carryPos;
 
     public List<Shelf> myShelfList;
@@ -36,8 +34,7 @@ public class Customer : MonoBehaviour
         myShelfList = myShelfList.OrderBy(x => Random.value).ToList();
 
         moveAI = GetComponent<CustomerMovementAI>();
-        thinkAI = GetComponent<CustomerThinkAI>();
-
+        
         switch (customerSituation)
         {
             case ItemSituation.WantToBuy:
