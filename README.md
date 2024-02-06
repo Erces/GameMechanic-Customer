@@ -1,6 +1,4 @@
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)'WEBGL READY'
-
-
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)'WEBGL READY: https://www.defendtillsunshine.com/projects-2'
 
 - This is a **"workspace"** for understanding **AI character systems** and **interacting with database** when selling an item. This is a base prototype for a "Pawn Shop" game that you can buy/sell stuff.
 
